@@ -1,0 +1,7 @@
+@font-face{
+    font-family: "Song";
+    src: url("../font/Please_write_me_a_song.ttf");
+}
+body{
+    font-family: "Song";
+}
